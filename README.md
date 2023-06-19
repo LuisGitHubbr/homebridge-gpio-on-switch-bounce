@@ -6,7 +6,7 @@ A homebridge plugin for gpio on switch.
 
 ## install
 
-Make sure you had installed homebridge first, then run the following command to install `homebridge-gpio-on-switch`.
+Make sure you had installed homebridge first, then run the following command to install `homebridge-gpio-on-switch-bounce`.
 
 ```
 sudo npm install -g homebridge-gpio-on-switch-bounce
