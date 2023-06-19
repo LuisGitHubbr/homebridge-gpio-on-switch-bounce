@@ -1,5 +1,5 @@
 {
-	"name": "homebridge-gpio-on-switch",
+	"name": "homebridge-gpio-on-switch-bounce",
 	"version": "1.0.2",
 	"description": "gpio on switch",
 	"license": "Apache-2.0",
@@ -25,10 +25,11 @@
 	"keywords": [
 		"homebridge-plugin",
 		"homebridge",
-		"respberry",
+		"raspberry",
 		"gpio",
 		"on",
 		"switch",
+		"bounce",
 		"homekit"
 	],
 	"devDependencies": {
