@@ -5,10 +5,10 @@
 	"license": "Apache-2.0",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/classlfz/homebridge-gpio-on-switch.git"
+		"url": "git://github.com/luisgithubbr/homebridge-gpio-on-switch-bounce.git"
 	},
 	"bugs": {
-		"url": "https://github.com/classlfz/homebridge-gpio-on-switch/issues"
+		"url": "https://github.com/luisgithubbr/homebridge-gpio-on-switch-bounce/issues"
 	},
 	"engines": {
 		"node": ">=10.17.0",
