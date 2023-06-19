@@ -1,7 +1,7 @@
 {
 	"name": "homebridge-gpio-on-switch-bounce",
 	"version": "1.0.2",
-	"description": "gpio on switch",
+	"description": "gpio on switch bouncer",
 	"license": "Apache-2.0",
 	"repository": {
 		"type": "git",
