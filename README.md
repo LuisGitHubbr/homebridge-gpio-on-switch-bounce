@@ -1,4 +1,4 @@
-# homebridge-gpio-on-switch
+# homebridge-gpio-on-switch-bounce
 
 [![Build and Lint](https://github.com/luisgithubbr/homebridge-gpio-on-switch-bounce/actions/workflows/build.yml/badge.svg)](https://github.com/luisgithubbr/homebridge-gpio-on-switch-bounce/actions/workflows/build.yml)
 
